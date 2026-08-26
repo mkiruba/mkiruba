@@ -17,10 +17,6 @@ Driving scalable, secure, and product-focused engineering — ~20 years leading 
 - Contributing to the **AI Steering Committee**, driving adoption of AI-assisted development and AI Agents on **Azure AI Foundry**.
 - Coaching teams through vertical team structures to improve delivery speed, collaboration, and quality.
 
-### 🌱 Exploring
-
-Multi-agent orchestration and applied AI Foundry patterns — see [`AIFoundrySamples`](https://github.com/mkiruba/AIFoundrySamples), [`autogen_studio`](https://github.com/mkiruba/autogen_studio), and [`Autogen_AIAgent`](https://github.com/mkiruba/Autogen_AIAgent).
-
 ---
 
 ### 🧰 Tech Stack
