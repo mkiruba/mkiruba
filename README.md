@@ -58,19 +58,6 @@ Multi-agent orchestration and applied AI Foundry patterns — see [`AIFoundrySam
 
 ---
 
-### 📌 Highlighted Projects
-
-| Repo | Description |
-|---|---|
-| [AIFoundrySamples](https://github.com/mkiruba/AIFoundrySamples) | Samples and patterns for building with Azure AI Foundry |
-| [autogen_studio](https://github.com/mkiruba/autogen_studio) | Exploring multi-agent workflows with AutoGen |
-| [Autogen_AIAgent](https://github.com/mkiruba/Autogen_AIAgent) | AI agent experiments built on AutoGen |
-| [CrewAI-Replit-AIMathsWorksheet](https://github.com/mkiruba/CrewAI-Replit-AIMathsWorksheet) | Agentic worksheet generation with CrewAI |
-| [techradar](https://github.com/mkiruba/techradar) | Tracking and evaluating emerging engineering tech |
-| [CleanArchitectureTemplate](https://github.com/mkiruba/CleanArchitectureTemplate) | .NET starter template following Clean Architecture principles |
-
----
-
 ### 📈 Background
 
 20 years across engineering leadership and hands-on delivery — Willis Towers Watson, PA Consulting, 10x Psychology, and contract roles spanning asset management, fintech, automotive data, and public sector (Parliamentary Digital Service). Full history on [LinkedIn](https://www.linkedin.com/in/kiru/).
