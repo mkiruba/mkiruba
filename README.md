@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kiru 👋</h1>
-<h3 align="center">Engineering Leader · Cloud & AI Specialist</h3>
+<h3 align="center">AI Agentic & MLOps Specialist · Cloud & Engineering Leader</h3>
 
 <p align="center">
-Driving scalable, secure, and product-focused engineering — ~20 years leading teams across the Microsoft stack, Azure, AWS, and applied AI/ML.
+~20 years delivering scalable AI, cloud, and software solutions on Azure. Specialising in AI Agents, agentic workflows, RAG pipelines, vector search, and MLOps — from prototype to secure, observable production systems.
 </p>
 
 <p align="center">
@@ -13,18 +13,40 @@ Driving scalable, secure, and product-focused engineering — ~20 years leading 
 
 ### 🔭 Currently
 
-- **Engineering Lead @ Willis Towers Watson** — leading engineering on a private SaaS platform (BYOC) on Azure, and a tailored MLOps platform with AI Agents.
-- Contributing to the **AI Steering Committee**, driving adoption of AI-assisted development and AI Agents on **Azure AI Foundry**.
-- Coaching teams through vertical team structures to improve delivery speed, collaboration, and quality.
+- **Engineering Lead @ Willis Towers Watson** — designing and shipping enterprise-grade AI Agents on **Azure AI Foundry** and **Azure OpenAI**, with vector search and secure tool/function-calling integrations into microservices and actuarial systems.
+- Building real-time, **SSE-based conversational AI** for high-speed analytics exploration, and a tailored **MLOps platform** supporting multi-model orchestration, deployment, and observability.
+- Core contributor to the **AI Steering Committee**, driving organisation-wide adoption of AI development practices and agentic workflow patterns.
+
+---
+
+### 🧠 AI Engineering Focus
+
+**AI Engineering**
+- Azure AI Foundry & LLM lifecycle — prompt flows, evaluations, safety, agent deployment
+- AI Agents & orchestration — multi-agent workflows grounded with Azure AI Search
+- Retrieval & search — RAG architectures using vector, semantic, and hybrid search
+- Prompt engineering — structured, reusable prompt flows for controlled generation and token optimisation
+- Quality, safety & observability — continuous evaluation and monitoring across agentic and RAG systems
+- Integration & runtime — secure tool/function calling and real-time SSE streaming
+
+**MLOps / ML Engineering**
+- Azure ML platform — jobs, pipelines, workspaces, reproducible environments (Conda/Docker)
+- Model lifecycle — registration, versioning, promotion, online/batch deployment (ACA, ACR)
+- Monitoring & governance — endpoint monitoring, model and data drift detection
+- Data & tooling — feature pipelines, preprocessing workflows, Azure ML Python SDK v2 / CLI v2
 
 ---
 
 ### 🧰 Tech Stack
 
-**Cloud & AI**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**AI & LLM**
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Cloud**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Languages & Frameworks**
@@ -56,7 +78,7 @@ Driving scalable, secure, and product-focused engineering — ~20 years leading 
 
 ### 📈 Background
 
-20 years across engineering leadership and hands-on delivery — Willis Towers Watson, PA Consulting, 10x Psychology, and contract roles spanning asset management, fintech, automotive data, and public sector (Parliamentary Digital Service). Full history on [LinkedIn](https://www.linkedin.com/in/kiru/).
+20 years across engineering leadership and hands-on delivery — Willis Towers Watson, PA Consulting, 10x Psychology, and contract roles spanning asset management, fintech, automotive data, and public sector (Parliamentary Digital Service), with domain experience in insurance, pensions, and financial modelling. Full history on [LinkedIn](https://www.linkedin.com/in/kiru/).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkiruba&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="Kiru's GitHub stats" />
