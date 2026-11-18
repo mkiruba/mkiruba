@@ -79,9 +79,3 @@
 ### 📈 Background
 
 20 years across engineering leadership and hands-on delivery — Willis Towers Watson, PA Consulting, 10x Psychology, and contract roles spanning asset management, fintech, automotive data, and public sector (Parliamentary Digital Service), with domain experience in insurance, pensions, and financial modelling. Full history on [LinkedIn](https://www.linkedin.com/in/kiru/).
-
-### 🚀 Featured Projects
-
-- **[STEM Hub](https://github.com/mkiruba/stem-hub)** — a free, open collection of coding, electronics and robotics projects for ages 11–20+, built from parts you can actually buy.
-- **[Azure AI Foundry Samples](https://github.com/mkiruba/AIFoundrySamples)** — Python samples for calling Azure AI Foundry / Azure OpenAI with both Azure AD (`AzureCliCredential`) and API-key authentication.
-- **[Math AI Worksheets](https://github.com/mkiruba/MathAIWorksheets)** — AI-generated maths worksheets, with a companion [CrewAI multi-agent version](https://github.com/mkiruba/CrewAI-Replit-AIMathsWorksheet).
